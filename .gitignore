@@ -1,0 +1,8 @@
+*.suo
+*.user
+bin/
+.vs/
+obj/
+applicationhost.config
+appSettings.local.config
+connectionStrings.local.config
